@@ -9,4 +9,4 @@ diabetic-retinopathy-detection.ipynb: Imaging data read, Test-Train Split, Neura
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax).
 
-Loss: 0.0134 - accuracy: 0.9957 - validation_loss: 0.4649 - validation_accuracy: 0.9218.
+Testing: Loss: 0.0134 - accuracy: 0.9957 - validation_loss: 0.4649 - validation_accuracy: 0.9218.
