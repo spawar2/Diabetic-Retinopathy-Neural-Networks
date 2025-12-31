@@ -15,7 +15,32 @@ Testing: Loss: 0.0134 - accuracy: 0.9957 - validation_loss: 0.4649 - validation_
 
 <img width="741" alt="Screenshot 2024-12-08 at 7 25 23 PM" src="https://github.com/user-attachments/assets/d5b47deb-927b-4af6-9f51-6c739d197b83">
 
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
 
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 https://www.java.com/
 https://www.php.net/
 https://www.mysql.com/
