@@ -13,7 +13,7 @@ selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 Accuracy (3, 5, 10 Fold similar values).
 Testing: Loss: 0.0134 - accuracy: 0.9957 - validation_loss: 0.4649 - validation_accuracy: 0.9218.
 
-<img width="741" alt="Screenshot 2024-12-08 at 7 25 23 PM" src="https://github.com/user-attachments/assets/d5b47deb-927b-4af6-9f51-6c739d197b83">
+<img width="741" alt="Screenshot 2024-12-08 at 7 25 23 PM" src="https://github.com/user-attachments/assets/d5b47deb-927b-4af6-9f51-6c739d197b83"> Evaluation metrics:
 
 	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
